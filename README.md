@@ -2,6 +2,8 @@
 
 Tornado Cash - Reject Proposal 62. Verifying my ID. Chris from Ethereum Classic - real freebird on tele
 
+"Now it must be confirmed that @realfreebird is Chris Mercer"
+
 <!--
 **chris-mercer/chris-mercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

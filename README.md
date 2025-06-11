@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Tornado Cash - Reject Proposal 62. Verifying my ID. Chris from Ethereum Classic - real freebird on tele
+
 <!--
 **chris-mercer/chris-mercer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

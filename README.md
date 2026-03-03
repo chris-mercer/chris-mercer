@@ -1,9 +1,9 @@
-### Hi, I’m Chris 👋
+### Hi, I'm Chris
 
-I build software for blockchains that are meant to last.
+I build protocol infrastructure at the intersection of finance, blockchain, and AI.
 
-Mostly heads-down.  
-Occasionally public.  
-Always shipping.
+Currently focused on governance systems, DeFi architecture, and AI-augmented development workflows. Financial background, systems engineering mindset.
 
-I work on infrastructure, protocols, and long-lived systems.
+Mostly heads-down. Always shipping.
+
+[christophermercer.org](https://christophermercer.org) · [whiteb0x](https://whiteb0x.com)
